@@ -52,3 +52,7 @@ coverage.xml
 # Sphinx documentation
 docs/_build/
 
+
+# Distribution files for local configuration
+local_app.conf
+local_server.conf

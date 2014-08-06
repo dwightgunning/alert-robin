@@ -1,0 +1,11 @@
+[/]
+tools.gzip.on: << True / False >>
+
+[twilio]
+account = '<< Twilio Account >>'
+token = '<< Twilio Token >>'
+sender = '<< Twilio number >>'
+
+[contactlist]
+recipients = '{"<<name>>": "<<number>", "<<name>>": "<<number>", "<<name>>": "<<number>"}'
+message_body = '<<SMS Message>>'
